@@ -16,6 +16,7 @@ spec:
     spec:
       containers:
         - name: myweb
-          image: gayatrigorte/myimage-9
+          image: gayatrigorte/myimage-19
           ports:
             - containerPort: 8080
+ 
